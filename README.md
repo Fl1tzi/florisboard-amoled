@@ -1,5 +1,5 @@
-# florisboard-amoled
-A collection of amoled themes for the Florisboard
+# [FlorisBoard](https://github.com/florisboard/florisboard)-amoled
+A collection of amoled themes for FlorisBoard.
 
 ## Contributing
 
